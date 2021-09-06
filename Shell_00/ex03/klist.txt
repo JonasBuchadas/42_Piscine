@@ -1,0 +1,5 @@
+Credentials cache: API:BE1891E8-66C1-4794-9CF2-31C1BE592BF7
+        Principal: jocaetan@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  2 12:43:55 2021  Aug  2 22:43:45 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
